@@ -9,3 +9,5 @@ var valorTotal = 10.5;
 var letra = 'a';
 var nome = "Lucas Fábio";
 DateTime? data = DateTime.Now;
+
+Console.WriteLine(nome);
